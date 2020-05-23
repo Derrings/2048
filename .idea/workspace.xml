@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e765470-3bdb-48ff-864f-bf8fe71f1339" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b9fs4WJhhom6GYzh94LxfIMExN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Boot">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jd.ctl.Boot" />
+      <module name="2048" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jd.ctl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jd.GUITest" />
+      <module name="2048" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jd.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jd.model.Matrix" />
+      <module name="2048" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintGC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jd.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jd.view.MatrixPanel" />
+      <module name="2048" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jd.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleClassicView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jd.view.SingleClassicView" />
+      <module name="2048" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jd.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUITest" />
+      <item itemvalue="Application.Boot" />
+      <item itemvalue="Application.Matrix" />
+      <item itemvalue="Application.MatrixPanel" />
+      <item itemvalue="Application.SingleClassicView" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boot" />
+        <item itemvalue="Application.SingleClassicView" />
+        <item itemvalue="Application.MatrixPanel" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.GUITest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e765470-3bdb-48ff-864f-bf8fe71f1339" name="Default Changelist" comment="" />
+      <created>1588049433584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588049433584</updated>
+      <workItem from="1588049436585" duration="6739000" />
+      <workItem from="1588078045059" duration="2196000" />
+      <workItem from="1588120501785" duration="623000" />
+      <workItem from="1588168151888" duration="2798000" />
+      <workItem from="1588301184322" duration="1905000" />
+      <workItem from="1588396997209" duration="14000" />
+      <workItem from="1588727964088" duration="10584000" />
+      <workItem from="1588751231715" duration="175000" />
+      <workItem from="1588813464424" duration="37286000" />
+      <workItem from="1588989046505" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
