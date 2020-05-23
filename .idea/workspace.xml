@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e765470-3bdb-48ff-864f-bf8fe71f1339" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/jd/ctl/zhaoshuai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jd/ctl/MatrixCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jd/ctl/MatrixCtl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jd/ctl/zhaoshuai.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +153,7 @@
       <workItem from="1588751231715" duration="175000" />
       <workItem from="1588813464424" duration="37286000" />
       <workItem from="1588989046505" duration="50000" />
-      <workItem from="1590239633827" duration="1143000" />
+      <workItem from="1590239633827" duration="2492000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1590240170823</created>
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590240691670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="delete zhaoshuai">
+      <created>1590240782361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590240782361</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
