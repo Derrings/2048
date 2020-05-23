@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e765470-3bdb-48ff-864f-bf8fe71f1339" name="Default Changelist" comment="" />
+    <list default="true" id="6e765470-3bdb-48ff-864f-bf8fe71f1339" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/jd/ctl/zhaoshuai.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +151,7 @@
       <workItem from="1588751231715" duration="175000" />
       <workItem from="1588813464424" duration="37286000" />
       <workItem from="1588989046505" duration="50000" />
-      <workItem from="1590239633827" duration="1047000" />
+      <workItem from="1590239633827" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1590240170823</created>
@@ -165,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590240653527</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete zhaoshuai">
+      <created>1590240691670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590240691670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
